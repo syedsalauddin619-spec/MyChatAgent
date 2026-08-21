@@ -1,0 +1,20 @@
+Candidate Name: Neha Patel
+
+Education:
+Bachelor of Technology in Computer Science
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP, PyTorch, Pandas, NumPy, Git
+
+Experience:
+2 years experience as Junior Machine Learning Engineer
+
+Projects:
+Developed NLP models for text classification.
+Built a recommendation system using Python.
+Created data processing pipelines using Pandas and NumPy.
+Worked with REST APIs for deploying ML models.
+
+Strengths:
+Strong Python and machine learning experience.
+Good knowledge of NLP and data processing.

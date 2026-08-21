@@ -1,0 +1,31 @@
+Job Title: Junior AI / Machine Learning Engineer
+
+We are looking for a Junior AI / Machine Learning Engineer with strong Python and Artificial Intelligence fundamentals.
+
+Required Skills:
+Python
+Machine Learning
+Artificial Intelligence
+Natural Language Processing (NLP)
+Pandas
+NumPy
+Git
+
+Preferred Skills:
+LLM applications
+REST APIs
+Data processing
+TensorFlow or PyTorch
+
+Education:
+Bachelor's degree in Computer Science, Information Technology, Electronics, or a related engineering field.
+
+Experience:
+Freshers and candidates with 0-2 years of experience are welcome.
+
+Responsibilities:
+Develop and test Python-based AI applications.
+Work with machine learning and NLP models.
+Process and analyze data using Python.
+Integrate AI models with applications and APIs.
+Write clean and maintainable code.

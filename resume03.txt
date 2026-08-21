@@ -1,0 +1,19 @@
+Candidate Name: Rahul Verma
+
+Education:
+Bachelor of Technology in Information Technology
+
+Skills:
+Python, Java, SQL, HTML, CSS, Git, Data Structures
+
+Experience:
+1 year internship as Software Developer Intern
+
+Projects:
+Developed a Python-based inventory management application.
+Created REST API services using Python.
+Worked with SQL databases for storing application data.
+
+Strengths:
+Good software development fundamentals and Python experience.
+Limited experience with AI and Machine Learning.

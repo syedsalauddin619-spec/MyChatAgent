@@ -1,0 +1,18 @@
+Candidate Name: Ahmed Khan
+
+Education:
+Bachelor of Engineering in Computer Science
+
+Skills:
+Python, Machine Learning, Artificial Intelligence, NLP, Pandas, NumPy, REST APIs, Git, SQL
+
+Experience:
+Fresher
+
+Projects:
+Built a Python-based chatbot using an LLM.
+Developed a machine learning project for text classification.
+Created REST API applications using Python.
+
+Strengths:
+Strong Python programming and AI fundamentals.

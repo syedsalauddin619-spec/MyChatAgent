@@ -1,0 +1,21 @@
+Candidate Name: Meera Iyer
+
+Education:
+Bachelor of Engineering in Computer Science
+
+Skills:
+Python, Artificial Intelligence, Machine Learning, NLP, REST APIs, Git, Pandas, NumPy, SQL
+
+Experience:
+1 year internship in AI application development
+
+Projects:
+Built an AI-powered question-answering application using Python and an LLM.
+Developed an NLP-based text classification system.
+Created REST API services for an AI application.
+Used Pandas and NumPy for data processing.
+
+Strengths:
+Strong Python and AI fundamentals.
+Good knowledge of NLP, APIs, and data processing.
+Experience building practical AI applications.

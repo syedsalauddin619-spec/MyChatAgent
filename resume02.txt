@@ -1,0 +1,19 @@
+Candidate Name: Priya Sharma
+
+Education:
+Bachelor of Engineering in Electronics and Communication Engineering
+
+Skills:
+Python, C, Embedded Systems, IoT, MATLAB, Git
+
+Experience:
+Fresher
+
+Projects:
+Developed a smart energy meter billing system using a microcontroller.
+Worked on an IoT-based monitoring project.
+Created Python scripts for data processing.
+
+Strengths:
+Strong embedded systems knowledge and basic Python skills.
+Interested in learning Artificial Intelligence and Machine Learning.

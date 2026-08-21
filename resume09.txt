@@ -1,0 +1,20 @@
+Candidate Name: Kiran Joshi
+
+Education:
+Bachelor of Engineering in Electrical and Electronics Engineering
+
+Skills:
+Python, C, MATLAB, Embedded Systems, IoT, Git
+
+Experience:
+Fresher
+
+Projects:
+Developed a smart home automation system using a microcontroller.
+Created Python scripts for processing sensor data.
+Worked on an energy monitoring project.
+
+Strengths:
+Good embedded systems and programming fundamentals.
+Basic Python knowledge.
+Limited experience with Artificial Intelligence and NLP.

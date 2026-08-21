@@ -1,0 +1,19 @@
+Candidate Name: Vikram Singh
+
+Education:
+Bachelor of Engineering in Electronics and Communication Engineering
+
+Skills:
+Python, C, Machine Learning, IoT, Git, REST APIs
+
+Experience:
+1 year internship in software and IoT development
+
+Projects:
+Developed an IoT-based energy monitoring system.
+Used Python for sensor data processing.
+Created REST API integration for sending device data.
+
+Strengths:
+Good Python and IoT knowledge.
+Basic understanding of Machine Learning and APIs.

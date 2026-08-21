@@ -1,0 +1,19 @@
+Candidate Name: Arjun Kumar
+
+Education:
+Bachelor of Engineering in Mechanical Engineering
+
+Skills:
+C, C++, MATLAB, AutoCAD, Embedded Systems
+
+Experience:
+Fresher
+
+Projects:
+Designed an automated temperature monitoring system.
+Worked on a microcontroller-based automation project.
+Developed basic MATLAB simulations.
+
+Strengths:
+Good engineering fundamentals and problem-solving skills.
+No professional experience with Python or Artificial Intelligence.

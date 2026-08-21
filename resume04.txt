@@ -1,0 +1,19 @@
+Candidate Name: Sneha Reddy
+
+Education:
+Bachelor of Engineering in Computer Science
+
+Skills:
+Python, Artificial Intelligence, Machine Learning, NLP, TensorFlow, Git, Pandas
+
+Experience:
+6 months internship in AI/ML
+
+Projects:
+Built a sentiment analysis system using NLP.
+Developed a machine learning model for customer classification.
+Created a Python chatbot using an LLM API.
+
+Strengths:
+Strong AI and Python knowledge.
+Good understanding of NLP and machine learning.

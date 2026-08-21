@@ -1,0 +1,20 @@
+Candidate Name: Ananya Rao
+
+Education:
+Bachelor of Technology in Information Technology
+
+Skills:
+Python, Artificial Intelligence, NLP, Machine Learning, Streamlit, Git, SQL
+
+Experience:
+Fresher
+
+Projects:
+Built an AI-powered document chatbot using Python and an LLM.
+Developed a Streamlit application for data analysis.
+Created an NLP text classification project.
+Used Git for version control.
+
+Strengths:
+Strong Python and AI skills.
+Good understanding of NLP and LLM applications.
